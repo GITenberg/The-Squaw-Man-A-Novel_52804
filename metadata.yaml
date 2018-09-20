@@ -1,0 +1,32 @@
+_repo: The-Squaw-Man-A-Novel_52804
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Opp, Julie
+    alias: Faversham, Julie Opp
+    birthdate: 1871
+    deathdate: 1921
+    gutenberg_agent_id: '47050'
+    url: http://www.gutenberg.org/2009/agents/47050
+  - agent_name: Royle, Edwin Milton
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '46489'
+    url: http://www.gutenberg.org/2009/agents/46489
+description: ''
+gutenberg_issued: '2016-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Self-sacrifice -- Fiction'
+- !lcsh 'Indians of North America -- West (U.S.) -- Fiction'
+- GITenberg
+title: 'The Squaw Man: A Novel'
+url: http://www.gutenberg.org/ebooks/52804
