@@ -1,5 +1,8 @@
 _repo: The-Squaw-Man-A-Novel_52804
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52804-rst/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Opp, Julie
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46489'
     url: http://www.gutenberg.org/2009/agents/46489
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52804#The-Squaw-Man-A-Novel
 gutenberg_issued: '2016-08-14'
 gutenberg_type: Text
 identifiers:
